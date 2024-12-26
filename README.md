@@ -15,9 +15,9 @@
 ## Step6: check for final output.
 
 ### PROGRAM :
-'''
+```
 hi
 
-'''
+```
 
 
