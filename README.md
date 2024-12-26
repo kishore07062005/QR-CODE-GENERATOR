@@ -73,11 +73,16 @@ img.save("test.png")
 ------------------------------------------------------------------------------------------------------
 
 ### FINAL RESULT:
-'''
-PROGRAM IN VS CODE: 
+
+```
+
+PROGRAM IN VS CODE:
 
 <img width="959" alt="QR CODE" src="https://github.com/user-attachments/assets/cbe18714-8f83-48e9-a836-30dff4027a49" />
 
+```
+
+```
 
 QR-CODE
 
