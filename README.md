@@ -34,7 +34,7 @@ img = qr.make_image(fill="black", back_color = "yellow")
 img.save("test.png")
 
 ```
----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 ### PROGRAM EXPLANATION: 
 
 ### 1.Import Libraries:
@@ -42,8 +42,8 @@ img.save("test.png")
      ->Import the image library for handling image operations.
 
 ### 2.Initialize QR Code Object:
-->Create a QRCode object with specific parameters:
-->Example:
+     ->Create a QRCode object with specific parameters:
+     ->Example:
   --------------------------------------------------------------------
      ->version = 5: Specifies the size of the QR code.                 
      
@@ -53,7 +53,7 @@ img.save("test.png")
 
 --------------------------------------------------------------------------
 ### 3.Add Data:
-   ->Add the data "YOUR DATA" to the QR code object using the add_data method.
+     ->Add the data "YOUR DATA" to the QR code object using the add_data method.
    
 ### 4.Generate QR Code:
     ->Call the make method with fit = True to generate the QR code.
@@ -70,4 +70,4 @@ img.save("test.png")
 ### 6.Save Image:
     ->Save the generated QR code image as "test.png" using the save method.
     
----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
