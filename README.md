@@ -73,8 +73,10 @@ img.save("test.png")
 ------------------------------------------------------------------------------------------------------
 
 ### FINAL RESULT:
- '''
-"C:\Users\Kishore\OneDrive\Desktop\pyproj\python"
-'''
+
+C:\Users\Kishore\OneDrive\Desktop\pyproj\python
+
+
+
 
 
