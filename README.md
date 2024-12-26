@@ -16,7 +16,22 @@
 
 ### PROGRAM :
 ```
-hi
+import qrcode
+import image
+qr=qrcode.QRCode(
+    version = 5, 
+    box_size = 5, 
+    border = 7
+
+)
+data = "KISHORE"
+qr.add_data(data)
+
+qr.make(fit = True)
+
+img = qr.make_image(fill="black", back_color = "yellow")
+
+img.save("test.png")
 
 ```
 
