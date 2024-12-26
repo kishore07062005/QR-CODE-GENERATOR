@@ -80,13 +80,12 @@ img.save("test.png")
 <img width="959" alt="QR CODE" src="https://github.com/user-attachments/assets/cbe18714-8f83-48e9-a836-30dff4027a49" />
 
 
-
-#QR-CODE
+# QR-CODE
 
 ![Screenshot 2024-12-26 100136](https://github.com/user-attachments/assets/bd088bb8-1d9d-479a-a104-cd649f4bd0ee)
 
 
-        ------------------------------------------------------------------------------------------------------------
+
 
 
 
