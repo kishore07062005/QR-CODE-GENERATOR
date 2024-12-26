@@ -71,3 +71,9 @@ img.save("test.png")
     ->Save the generated QR code image as "test.png" using the save method.
     
 ------------------------------------------------------------------------------------------------------
+
+### FINAL RESULT:
+
+"C:\Users\Kishore\OneDrive\Desktop\pyproj\python"
+
+
